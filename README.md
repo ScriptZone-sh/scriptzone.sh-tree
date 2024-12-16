@@ -12,3 +12,6 @@ bash <(wget -O - https://wireguard.sh/wireguard.sh)
 
 # About
 ScriptZone.sh was founded in late December 2024, by Dylan L, a dedicated high school coder with a lot of free time. ScriptZone.sh allows individuals to have a "directory" of scripts at the paste of a link!
+
+# Credits
+Credits go to wireguard.sh and the creators of the website - Very well built.

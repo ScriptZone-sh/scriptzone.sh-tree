@@ -44,6 +44,7 @@ case $choice in
                 bash <(curl -s https://raw.githubusercontent.com/HaloFloof/OpenVPN-Installer/main/install.sh)
                 echo -e "\u001b[34mOpenVPN has successfully been installed! \u001b[0m"
                 ;;
+            esac
     3)
         echo -e "\u001b[34mScriptZone.sh is installing Pterodactyl onto your system... \u001b[0m"
         apt install curl -y

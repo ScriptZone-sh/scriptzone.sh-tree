@@ -29,8 +29,6 @@ case $choice in
         echo -e "\u001b[34mScriptZone.sh has started a system update...\u001b[0m"
         sudo apt install update && sudo apt upgrade -y
         ;;
-    2) 
-
     3)
         echo -e "\u001b[34mScriptZone.sh is installing Pterodactyl onto your system... \u001b[0m"
         apt install curl -y

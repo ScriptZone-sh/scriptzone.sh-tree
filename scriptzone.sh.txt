@@ -4,9 +4,12 @@
 <span> * Home Page:      https://scriptzone.sh/</span>
 <span> * Discord Server: https://d.scriptzone.sh</span>
 <div> * GitHub Org: https://git.scriptzone.sh</div>
-<span id="a">╔═╗┌─┐┬─┐┬┌─┐┌┬┐┌─┐┌─┐┌┐┌┌─┐&nbsp;┌─┐┬ ┬</span>
-<span id="a">╚═╗│&nbsp;&nbsp;├┬┘│├─┘&nbsp;│&nbsp;┌─┘│ ││││├┤&nbsp;&nbsp;└─┐├─┤</span>
-<span id="a">╚═╝└─┘┴└─┴┴&nbsp;&nbsp;&nbsp;┴ └─┘└─┘┘└┘└─┘o└─┘┴ ┴</span>
+<span id="a">███████╗&nbsp;██████╗██████╗&nbsp;██╗██████╗&nbsp;████████╗███████╗&nbsp;██████╗&nbsp;███╗&nbsp;&nbsp;&nbsp;██╗███████╗&nbsp;&nbsp;&nbsp;███████╗██╗&nbsp;&nbsp;██╗</span>
+<span id="a">██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝╚══███╔╝██╔═══██╗████╗&nbsp;&nbsp;██║██╔════╝&nbsp;&nbsp;&nbsp;██╔════╝██║&nbsp;&nbsp;██║</span>
+<span id="a">███████╗██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████╔╝██║██████╔╝&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███╔╝&nbsp;██║&nbsp;&nbsp;&nbsp;██║██╔██╗&nbsp;██║█████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗███████║</span>
+<span id="a">╚════██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔══██╗██║██╔═══╝&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;███╔╝&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██║██║╚██╗██║██╔══╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚════██║██╔══██║</span>
+<span id="a">███████║╚██████╗██║&nbsp;&nbsp;██║██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;███████╗╚██████╔╝██║&nbsp;╚████║███████╗██╗███████║██║&nbsp;&nbsp;██║</span>
+<span id="a">╚══════╝&nbsp;╚═════╝╚═╝&nbsp;&nbsp;╚═╝╚═╝╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;╚══════╝&nbsp;╚═════╝&nbsp;╚═╝&nbsp;&nbsp;╚═══╝╚══════╝╚═╝╚══════╝╚═╝&nbsp;&nbsp;╚═╝</span>
 <div>v1.1</div>
 <span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cd scriptzone.sh/
 <span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cat installation.txt

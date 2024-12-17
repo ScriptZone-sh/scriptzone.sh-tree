@@ -16,11 +16,11 @@
 <span/>
 <div id="c">Run one of the following command to access ScriptZone.sh directory.</div>
 <div id="c">Supported on Ubuntu, Debian, CentOS.</div>
-<div onmouseleave="clearTooltip(this);" data-clipboard-action="copy" data-tooltip="Click to Copy" data-tooltip-position="bottom" data-clipboard-copy id="wget" class="shake" data-clipboard-target="#wget">bash <(wget -O - https://wireguard.sh/wireguard.sh)</div>
+<div onmouseleave="clearTooltip(this);" data-clipboard-action="copy" data-tooltip="Click to Copy" data-tooltip-position="bottom" data-clipboard-copy id="wget" class="shake" data-clipboard-target="#wget">bash <(wget -O - https://scriptzone.sh/install.sh)</div>
 <span/>
 <div> or </div>
-<div onmouseleave="clearTooltip(this);" data-clipboard-action="copy" data-tooltip="Click to Copy" data-tooltip-position="bottom" data-clipboard-copy id="curl" class="shake" data-clipboard-target="#curl">bash <(curl -s https://wireguard.sh/wireguard.sh)</div>
+<div onmouseleave="clearTooltip(this);" data-clipboard-action="copy" data-tooltip="Click to Copy" data-tooltip-position="bottom" data-clipboard-copy id="curl" class="shake" data-clipboard-target="#curl">bash <(curl -s https://scriptzone.sh/install.sh)</div>
 <br/>
-<span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cat about.txt
-<div id="c">WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks, and was designed with the goals of ease of use, high speed performance, and low attack surface.</div>
+<span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cat abt.txt
+<div id="c">ScriptZone.sh is a powerful and user-friendly tool, created by hard working SysAdmins in Late 2024 that simplifies software installation by allowing users to install popular scripts, applications, and software with a single script. It provides an interactive experience where users can choose exactly what they want to install, saving time and effort for developers and system administrators.</div>
 <div>exit</div>

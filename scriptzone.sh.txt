@@ -16,7 +16,7 @@
 <span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cat installation.txt
 <span/>
 <div id="c">Run one of the following command to access ScriptZone.sh directory.</div>
-<div id="c">Supported on Ubuntu, Debian, CentOS.</div>
+<div id="c">Supported on Ubuntu, Debian and CentOS.</div>
 <div onmouseleave="clearTooltip(this);" data-clipboard-action="copy" data-tooltip="Click to Copy" data-tooltip-position="bottom" data-clipboard-copy id="wget" class="shake" data-clipboard-target="#wget">bash <(wget -O - https://scriptzone.sh/install.sh)</div>
 <span/>
 <div> or </div>

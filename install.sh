@@ -13,6 +13,11 @@ echo -e ""
 echo -e "Welcome to ScriptZone.sh, a multi-purpose script dedicated for Developers, SysAdmins, etc.\033[0m"
 echo -e "ScriptZone is dedicated to providing a Safe, High-Speed, and Reliable Script to create an easier lifestyle for those whoneed it!\033[0m"
 echo -e ""
+echo -e "Visit our Home Page: https://scriptzone.sh"
+echo -e "Join our Discord: https://d.scriptzone.sh"
+echo -e "Send us Suggestions: https://suggest.scriptzone.sh"
+echo -e "Inquiries: me@scriptzone.sh"
+echo -e ""
 
 # Home Menu
 echo "1. Update My System!"

@@ -1,5 +1,5 @@
-<span>login as: scriptzone.sh</span>
-<span>scriptzone.sh@127.0.0.1's password:</span>
+<span>login as: root</span>
+<span>root@127.0.0.1's password:</span>
 <div>Welcome to ScriptZone v1.0 Installation Script!</div>
 <span> * Home Page:      <a href="https://scriptzone.sh/">https://scriptzone.sh/</a></span>
 <span> * Discord Server: <a href="https://d.scriptzone.sh/">https://d.scriptzone.sh/</a></span>

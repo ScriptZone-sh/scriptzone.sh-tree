@@ -1,9 +1,9 @@
 <span>login as: scriptzone.sh</span>
 <span>scriptzone.sh@127.0.0.1's password:</span>
 <div>Welcome to ScriptZone v1.0 Installation Script!</div>
-<span> * Home Page:      https://scriptzone.sh/</span>
-<span> * Discord Server: https://d.scriptzone.sh</span>
-<div> * GitHub Org: https://git.scriptzone.sh</div>
+<span> * Home Page:      <a href="https://scriptzone.sh/">https://scriptzone.sh/</span>
+<span> * Discord Server: <a href="https://d.scriptzone.sh/">https://d.scriptzone.sh/</span>
+<div> * GitHub Org: <a href="https://git.scriptzone.sh/">https://git.scriptzone.sh/</div>
 <span id="a">███████╗&nbsp;██████╗██████╗&nbsp;██╗██████╗&nbsp;████████╗███████╗&nbsp;██████╗&nbsp;███╗&nbsp;&nbsp;&nbsp;██╗███████╗&nbsp;&nbsp;&nbsp;███████╗██╗&nbsp;&nbsp;██╗</span>
 <span id="a">██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝╚══███╔╝██╔═══██╗████╗&nbsp;&nbsp;██║██╔════╝&nbsp;&nbsp;&nbsp;██╔════╝██║&nbsp;&nbsp;██║</span>
 <span id="a">███████╗██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████╔╝██║██████╔╝&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███╔╝&nbsp;██║&nbsp;&nbsp;&nbsp;██║██╔██╗&nbsp;██║█████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗███████║</span>

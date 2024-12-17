@@ -4,7 +4,7 @@
 <span> * Home Page:      https://scriptzone.sh/</span>
 <span> * Discord Server: https://d.scriptzone.sh</span>
 <div> * GitHub Org: https://git.scriptzone.sh</div>
-<span id="a">-____-----------_-------_---_____---------------------_-----<br> / ___|  ___ _ __(_)_ __ | |_|__  /___  _ __   ___   ___| |__  <br> \___ \ / __| '__| | '_ \| __| / // _ \| '_ \ / _ \ / __| '_ \ <br>  ___) | (__| |  | | |_) | |_ / /| (_) | | | |  __/_\__ \ | | |<br> |____/ \___|_|  |_| .__/ \__/____\___/|_| |_|\___(_)___/_| |_|<br>------------------|_|-----------------------------------------<span>
+<span id="a">╔═╗┌─┐┬─┐┬┌─┐┌┬┐╔═╗┌─┐┌┐┌┌─┐ ┌─┐┬ ┬<br>╚═╗│  ├┬┘│├─┘ │ ╔═╝│ ││││├┤  └─┐├─┤<br>╚═╝└─┘┴└─┴┴   ┴ ╚═╝└─┘┘└┘└─┘o└─┘┴ ┴<<span>
 <div>v1.1</div>
 <span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cd scriptzone.sh/
 <span id="a">scriptzone.sh</span>:<span id="b">~</span><span id="c">$</span> cat help.txt

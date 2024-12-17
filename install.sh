@@ -27,7 +27,7 @@ read -p "Please Select a Choice Above [1-5]: " choice
 case $choice in
     1)
         echo -e "\u001b[34mScriptZone.sh has started a system update...\u001b[0m"
-        sudo apt install update && sudo apt upgrade -y
+        sudo apt update && sudo apt upgrade -y
         ;;
     3)
         echo -e "\u001b[34mScriptZone.sh is installing Pterodactyl onto your system... \u001b[0m"
@@ -36,6 +36,8 @@ case $choice in
         ;;
     5)
         echo -e "\u001b[31mExiting ScriptZone.sh.. Come back soon!!\u001b[0m"
+        exit
+        ;;
     *)
         echo -e "\u001b[31mInvalid Option. Please select a valid option on the list!\u001b[0m"
         ;;

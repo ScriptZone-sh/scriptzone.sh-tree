@@ -45,6 +45,7 @@ case $choice in
                 echo -e "\u001b[34mOpenVPN has successfully been installed! \u001b[0m"
                 ;;
             esac
+            ;;
     3)
         echo -e "\u001b[34mScriptZone.sh is installing Pterodactyl onto your system... \u001b[0m"
         apt install curl -y
